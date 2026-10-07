@@ -617,16 +617,54 @@
 
 ---
 
-# 十五、官方查詢入口
+# 十五、官方查詢連結
 
-- Discover Another Japan 山陰票券
-- 足立美術館開館與票價
-- 足立美術館免費接駁
-- 松江城開館與票價
-- 堀川遊覽船營運資訊
-- 水木茂紀念館開館資訊
-- 米子鬼太郎機場交通
-- JR 西日本時刻表
-- 台灣虎航航班動態
+## 票券
 
-> 實際購買、啟用與班次請以各官方網站及 App 在旅行當日顯示的內容為準。
+- [Discover Another Japan Pass 山陰地區票券與價格](https://sanin-japan.com/zh-tw/dajp/pass/)
+- [Discover Another Japan Pass 官方首頁與適用景點](https://sanin-japan.com/dajp/)
+- [KKday Discover Another Japan Pass 購買頁面](https://www.kkday.com/zh-tw/product/155259-discover-another-japan-pass)
+
+## D1：米子鬼太郎機場與航班
+
+- [米子鬼太郎機場巴士交通資訊](https://www.yonago-air.com/access/bus)
+- [米子鬼太郎機場官方網站](https://www.yonago-air.com/)
+- [台灣虎航航班動態查詢](https://ec-v2.tigerairtw.com/zh-tw/check-flight-status/)
+
+## D2：足立美術館、松江城與堀川遊覽船
+
+- [足立美術館官方網站](https://www.adachi-museum.or.jp/)
+- [足立美術館免費接駁巴士與 2026 時刻表](https://www.adachi-museum.or.jp/shuttle-bus)
+- [松江城官方網站](https://www.matsue-castle.jp/)
+- [堀川遊覽船官方網站](https://www.matsue-horikawameguri.jp/)
+- [島根縣官方繁中版堀川遊覽船資訊](https://www.kankou-shimane.com/zh-tw/destinations/9294)
+- [松江官方觀光指南繁中版](https://tw.visit-matsue.com/)
+
+## D3：大山與皆生溫泉
+
+- [大山觀光官方網站](https://tourismdaisen.com/)
+- [鳥取縣道路即時資訊](https://tottori-road.jp/)
+- [皆生溫泉官方觀光網站](https://www.kaike-onsen.com/)
+- [米子觀光協會日歸溫泉一覽](https://www.yonago-navi.jp/purpose/sightseeing/day-onsen/)
+
+## D4：境港
+
+- [水木茂紀念館官方網站](https://mizuki.sakaiminato.net/)
+- [境港市觀光指南](https://www.sakaiminato.net/)
+
+## JR 與交通班次
+
+- [JR 西日本時刻與路線查詢](https://www.jr-odekake.net/)
+- [JR 西日本境線區間時刻表](https://timetable.jr-odekake.net/line-timetable/2412)
+
+## 餐廳
+
+- [燒肉一八官方網站](https://yonago18.com/)
+- [米子牛骨拉麵同盟店家資訊](https://gyuukotsuramen.jp/)
+- [牛骨拉麵 たかうな 官方網站](https://www.takauna.com/)
+- [出雲そば処 八雲庵官方網站](https://www.yakumoan.jp/)
+- [境港地魚食堂 魚倉官方網站](https://syokudo-uokura.com/)
+- [境港 お食事処 海心官方網站](https://sakaiminato-kaishin.com/)
+- [海陽亭境港店官方網站](https://www.kaiyoutei.jp/sakaiminato/)
+
+> 實際票價、適用景點、營業時間、道路管制、航班與班次，請以各官方網站及 App 在旅行當日顯示的內容為準。尤其是 Discover Another Japan Pass 的適用設施清單、11/1 大山道路狀況，以及 11/2 台灣虎航與 JR 境線班次，務必在出發前再次確認。
